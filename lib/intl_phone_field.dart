@@ -498,8 +498,7 @@ class _IntlPhoneFieldState extends State<IntlPhoneField> {
                 const SizedBox(width: 8),
                 Text(
                   '|',
-                  style: widget.dropdownTextStyle
-                      .copyWith(color: Color(0xff696D6A)),
+                  style: widget.dropdownTextStyle?.copyWith(color: Color(0xff696D6A)),
                 ),
                 const SizedBox(width: 8),
               ],
