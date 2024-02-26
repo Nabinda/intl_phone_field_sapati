@@ -4740,7 +4740,7 @@ const List<Country> countries = [
       "yue": "尼泊爾"
     },
     flag: "🇳🇵",
-    code: "NP",
+    code: "NEP",
     dialCode: "977",
     minLength: 10,
     maxLength: 10,
